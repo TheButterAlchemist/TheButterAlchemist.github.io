@@ -60,7 +60,7 @@ en: &DEFAULT_EN
     text: "Meet the folks who make the magic happen"
     section: team
     people:
-      - name: "Carrissia Miller"
+      - name: "Carrissia"
         role: "The Alchemist"
         image: assets/img/team/cmill_ico.png
         social:
