@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Laboratory!
-    text: We're happy to have you
+    text: We're *delighted* to have you
     button: Enchant Me
     buttonlink: "#services"
 
@@ -22,56 +22,20 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Artisinal Butter Creations"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Our alchemist prepares each mélange from scratch using only the finest local herbs, spices, and ingredients. Feel free to take a look below to see some of her recent creations."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Locally Sourced Vegan Options"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Butter is a treat that should be enjoyed by all. Our alchemist can weave you a delightful vegan-friendly butter from ethical and sustainable ingredients."
         icon: fas fa-leaf
       - title: "Custom Creations"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Do you have an idea for the perfect butter? Perhaps you have a specific application or dish in mind. Reach out to our alchemist to have a custom treat created just for you."
         icon: fas fa-magic
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Our Creations"
+    text: "View some of our most recently crafted treats below"
     section: portfolio
-    closebutton: "Close Project"
-
-  timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About Us"
-    text: "our story"
-    section: about
+    closebutton: "Close"
 
   clients:
     section: clients
@@ -92,14 +56,13 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "OUR ALCHEMISTS"
     text: "Meet the folks who make the magic happen"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Carrissia Miller"
         role: "The Alchemist"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/cmill_ico.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -110,7 +73,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Feel free to use the form below to reach out with any questions"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

@@ -4,5 +4,5 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/demo_image_cropped.jpg"
+header-image: "../img/bg-image.jpg"
 contact-image: "../img/map-image.png"

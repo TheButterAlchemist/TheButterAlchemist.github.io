@@ -18,7 +18,8 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : The Butter Alchemist
-email      : thebutteralchemist@outlook.com #this is also the email contact forms will go to
+email      : jpbochicchio@gmail.com #thebutteralchemist@outlook.com #this is also the email contact forms will go to
+formspree_form_path: f/mjvjyoge
 description: "Un petit mélange de beurre enchanté"
 author     : Carrissia Miller
 # logo:     #optional, defaults to site title
